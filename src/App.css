@@ -30,13 +30,6 @@
     box-shadow: 0 6px 16px rgba(16,24,40,0.06);
 }
 
-.controls .row {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-
-.controls label { min-width: 80px; }
 #fontRange { flex: 1; }
 #fontValue { min-width: 50px; text-align: right; color: var(--muted); }
 
